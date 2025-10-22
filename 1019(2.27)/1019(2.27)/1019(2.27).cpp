@@ -5,13 +5,13 @@
 
 int main()
 {
-    for (int i = 1; i <= 5; i++) {
-        // 印空白（左邊）
-        for (int j = 1; j <= 5 - i; j++) {
+    for (int i = 1; i <= 5; i++) 
+    {
+        for (int j = 1; j <= 5 - i; j++) 
+        {
             printf(" ");
-        }
-        // 印星號（中間）
-        for (int j = 1; j <= 2 * i - 1; j++) {
+        for (int j = 1; j <= 2 * i - 1; j++) 
+        {
             printf("*");
         }
         printf("\n");
