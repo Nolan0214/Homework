@@ -1,0 +1,28 @@
+﻿  1104(4.28).cpp
+C:\Users\User\Documents\程式設計作業\1104(4.28)(未)\1104(4.28)\1104(4.28).cpp(18,21): warning C4477: 'scanf_s' : 格式字串 '%lf' 需要 'double *' 類型的引數，但 variadic 引數 1 的類型為 'float *'
+      C:\Users\User\Documents\程式設計作業\1104(4.28)(未)\1104(4.28)\1104(4.28).cpp(18,21):
+      請考慮在格式字串中使用 '%f'
+  
+C:\Users\User\Documents\程式設計作業\1104(4.28)(未)\1104(4.28)\1104(4.28).cpp(24,21): warning C4477: 'scanf_s' : 格式字串 '%lf' 需要 'double *' 類型的引數，但 variadic 引數 1 的類型為 'float *'
+      C:\Users\User\Documents\程式設計作業\1104(4.28)(未)\1104(4.28)\1104(4.28).cpp(24,21):
+      請考慮在格式字串中使用 '%f'
+  
+C:\Users\User\Documents\程式設計作業\1104(4.28)(未)\1104(4.28)\1104(4.28).cpp(26,21): warning C4477: 'scanf_s' : 格式字串 '%lf' 需要 'double *' 類型的引數，但 variadic 引數 1 的類型為 'float *'
+      C:\Users\User\Documents\程式設計作業\1104(4.28)(未)\1104(4.28)\1104(4.28).cpp(26,21):
+      請考慮在格式字串中使用 '%f'
+  
+C:\Users\User\Documents\程式設計作業\1104(4.28)(未)\1104(4.28)\1104(4.28).cpp(30,39): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\User\Documents\程式設計作業\1104(4.28)(未)\1104(4.28)\1104(4.28).cpp(35,21): warning C4477: 'scanf_s' : 格式字串 '%lf' 需要 'double *' 類型的引數，但 variadic 引數 1 的類型為 'float *'
+      C:\Users\User\Documents\程式設計作業\1104(4.28)(未)\1104(4.28)\1104(4.28).cpp(35,21):
+      請考慮在格式字串中使用 '%f'
+  
+C:\Users\User\Documents\程式設計作業\1104(4.28)(未)\1104(4.28)\1104(4.28).cpp(36,29): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\User\Documents\程式設計作業\1104(4.28)(未)\1104(4.28)\1104(4.28).cpp(41,21): warning C4477: 'scanf_s' : 格式字串 '%lf' 需要 'double *' 類型的引數，但 variadic 引數 1 的類型為 'float *'
+      C:\Users\User\Documents\程式設計作業\1104(4.28)(未)\1104(4.28)\1104(4.28).cpp(41,21):
+      請考慮在格式字串中使用 '%f'
+  
+C:\Users\User\Documents\程式設計作業\1104(4.28)(未)\1104(4.28)\1104(4.28).cpp(43,21): warning C4477: 'scanf_s' : 格式字串 '%lf' 需要 'double *' 類型的引數，但 variadic 引數 1 的類型為 'float *'
+      C:\Users\User\Documents\程式設計作業\1104(4.28)(未)\1104(4.28)\1104(4.28).cpp(43,21):
+      請考慮在格式字串中使用 '%f'
+  
+C:\Users\User\Documents\程式設計作業\1104(4.28)(未)\1104(4.28)\1104(4.28).cpp(6,16): error C1075: '{': 找不到任何相符的語彙基元
