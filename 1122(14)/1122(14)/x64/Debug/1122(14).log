@@ -1,0 +1,6 @@
+﻿  1122(14).cpp
+1122(14).obj : error LNK2019: 在函式 "int __cdecl minimum(int const (* const)[4],int,int)" (?minimum@@YAHQEAY03$$CBHHH@Z)main 中參考了無法解析的外部符號
+1122(14).obj : error LNK2019: 在函式 "int __cdecl maximum(int const (* const)[4],int,int)" (?maximum@@YAHQEAY03$$CBHHH@Z)main 中參考了無法解析的外部符號
+1122(14).obj : error LNK2019: 在函式 "double __cdecl average(int const * const,int)" (?average@@YANQEBHH@Z)main 中參考了無法解析的外部符號
+1122(14).obj : error LNK2019: 在函式 "void __cdecl printArray(int const (* const)[4],int,int)" (?printArray@@YAXQEAY03$$CBHHH@Z)main 中參考了無法解析的外部符號
+C:\Users\User\Documents\程式設計作業\1122(14)\x64\Debug\1122(14).exe : fatal error LNK1120: 4 個無法解析的外部符號
