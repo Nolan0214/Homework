@@ -1,0 +1,6 @@
+﻿  1122(p19).cpp
+C:\Users\User\Documents\程式設計作業\1122(p19)\1122(p19)\1122(p19).cpp(12,13): warning C4477: 'scanf_s' : 格式字串 '%s' 需要 'unsigned int' 類型的引數，但 variadic 引數 2 的類型為 'size_t'
+      C:\Users\User\Documents\程式設計作業\1122(p19)\1122(p19)\1122(p19).cpp(12,13):
+      此引數可用為緩衝區大小
+  
+  1122(p19).vcxproj -> C:\Users\User\Documents\程式設計作業\1122(p19)\x64\Debug\1122(p19).exe
